@@ -1,2 +1,2 @@
 # Dicegame
-A simple dice game made using html,css and javasript
+A simple dice game made using html,css and javasrcipt
